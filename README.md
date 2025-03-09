@@ -3,7 +3,7 @@
 Developed a real-time medical diagnosis web app using Streamlit for an interactive UI and Python for backend processing. Implemented SVM, Logistic Regression, and Random Forest models with Scikit-learn to predict diseases based on user-inputted symptoms.
 
 
-## Developed an AI-powered medical diagnosis system using Streamlit and Python.
+## 🚀🛠️ Developed an AI-powered medical diagnosis system using Streamlit and Python.
 
 ✅ Implemented SVM, Logistic Regression, and Random Forest models with Scikit-learn for disease prediction.
 
