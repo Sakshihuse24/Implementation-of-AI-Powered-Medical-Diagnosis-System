@@ -14,7 +14,7 @@ Developed a real-time medical diagnosis web app using Streamlit for an interacti
 ✅ Deployed the application on Streamlit Cloud for easy access.
 
 
-#### 🔹 Key Features:
+## 🔹 Key Features:
 ✅ 🩺 Multi-Disease Prediction – Supports multiple disease classifications using trained machine learning models.
 
 ✅ 🎨 User-Friendly UI – Built with Streamlit, featuring a modern, dynamic, and responsive design for a seamless experience.
@@ -25,7 +25,7 @@ Developed a real-time medical diagnosis web app using Streamlit for an interacti
 
 ✅ ☁️ Scalability & Deployment – Hosted on Streamlit Cloud for ease of access and deployment.
 
-This project demonstrates expertise in 🤖 Machine Learning, 🌐 Web Development, and 🎭 UI/UX Design, showcasing the ability to build intelligent, user-centric applications. 🚀
+#### This project demonstrates expertise in 🤖 Machine Learning, 🌐 Web Development, and 🎭 UI/UX Design, showcasing the ability to build intelligent, user-centric applications. 🚀
 
 
 
